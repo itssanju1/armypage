@@ -1,0 +1,51 @@
+.carddata{
+    background-image: url('../Images/1.jpg');
+    height: 300px;
+    align-items: center;
+}
+.carddata1 img{
+    height: 180px ;
+    margin: 50px;
+    border-radius: 10px;
+}
+.carddata2{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+   text-decoration: underline;
+    margin-top: 20%;
+}
+.partners{
+    text-align: center;
+    position: relative;
+    font-weight: bold;
+    font-size: 30px;
+}
+.partners::before{
+    content: "";
+    display: block;
+    width: 20%;
+    height: 1px;
+    background-color: black;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    margin-left: 20%;
+    
+}
+.partners::after{
+    content: "";
+    display: block;
+    width: 20%;
+    height: 1px;
+    background-color: black;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    margin-right: 20%;
+    
+}
+.imagesstyles{
+    width: 10%;
+    height: 50%;
+}

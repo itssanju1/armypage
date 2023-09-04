@@ -1,0 +1,89 @@
+.formcontrol{
+    border: 1px solid white;
+    padding-left: 5px;
+    margin-top: 27px;
+   
+}
+.formcontrol1{
+    background-color: rgb(240, 238, 238);
+   margin-left: 15px;
+    border-radius: 4px;
+    border: 2px solid rgb(202, 198, 198);
+    margin-top: 7px;
+}
+.formcontrol2{
+    background-color: rgb(1, 77, 20);
+    margin-left: 15px;
+     border-radius: 4px;
+     border: 2px solid rgb(1, 77, 20);
+     margin-top: 7px;
+     color: rgb(179, 179, 179);
+    
+     text-align: center;
+     width: 95%;
+}
+.formstyle{
+    border: 2px solid black;
+   
+}
+.butoon1{
+    width: 50%;
+    border: 1px solid white;
+    /* margin-top: 15%; */
+}
+.butoon2{
+    width: 45%;
+    border: 1px solid white;
+    margin-left: 20px;
+}
+.bg-image{
+    background-image: url("../Images/1.jpg");
+    height: 400px;
+}
+.formbag{
+    background-color:white;
+    margin-top: 15%;
+   
+    
+}
+.imgstyle{
+    align-items: center;
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 40%;
+
+}
+.divstyle{
+    
+    color: rgb(206, 186, 8);
+    font-size: 40px;
+    font-display: bold;
+    text-align: center;
+}
+.divstyle1{
+    margin-top: 0px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+.style1{
+   width: 100%;
+   margin-top: 10px;
+    
+}
+.pic1{
+    width:110%;
+    height: 110%;
+}
+.details{
+    text-align: center;
+    width: 80%;
+}
+.details1{
+    text-align: center;
+    width: 80%;
+    text-decoration: underline;
+}
+.data1{
+    margin-top: 15%;
+}

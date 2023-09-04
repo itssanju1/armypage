@@ -1,0 +1,16 @@
+.navbaarcss{
+    border: 2px solid rgb(3, 105, 71);
+    padding-left: 900px;
+    margin-left: 0px;
+   background-color: rgb(3, 105, 71);
+   font-size: larger;
+   color: aliceblue;
+   
+   
+}
+.navcss1{
+    padding: 2px;
+    text-decoration: none;
+    color: rgb(247, 247, 247);
+    margin-left: 20px;
+}

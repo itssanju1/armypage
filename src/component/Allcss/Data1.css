@@ -1,0 +1,21 @@
+.data1style{
+    border: 1px solid black;
+    height: 110%;
+    background-color: rgba(14, 59, 8, 0.76);
+    margin-top: 10%;
+}
+.videotag{
+    border: 1px solid white;
+    background-color: white;
+    width: 90%;
+    height: 70%;
+    border-radius: 30px;
+    margin: 10%;
+    padding: 10%;
+}
+.data1p{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-top: 15%;
+}
